@@ -1,9 +1,9 @@
 # hotel_managment
-![](mainp.PNG)
+![](mainp.png)
 ![](dashboard.PNG)
 ![](reception.PNG)
 ![](adde.PNG)
 ![](addr.PNG)
-![](addri.PNG)
+![](allri.PNG)
 ![](employeei.PNG)
 ![](newc.PNG)
